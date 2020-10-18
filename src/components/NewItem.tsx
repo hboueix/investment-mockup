@@ -1,5 +1,4 @@
-import { IonBackButton, IonButton, IonButtons, IonContent, IonHeader, IonInput, IonItem, IonItemDivider, IonLabel, IonPage, IonSegment, IonTitle, IonToolbar } from "@ionic/react";
-import { attachProps } from "@ionic/react/dist/types/components/utils";
+import { IonContent, IonInput, IonItem, IonItemDivider, IonLabel } from "@ionic/react";
 import React from "react";
 
 const NewItem: React.FC = () => {
